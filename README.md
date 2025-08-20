@@ -7,7 +7,7 @@ The dataset contains **2,938 records and 22 columns**, covering key health, econ
 The primary objective is to uncover **trends, correlations, and variations** in life expectancy worldwide through **data cleaning, statistical analysis, and visualization in R**.  
 
 ---
-
+```
 ## 📂 Repository Structure  
 
 📦 Global-Life-Expectancy-Analysis-using-WHO-Dataset
@@ -28,7 +28,7 @@ The primary objective is to uncover **trends, correlations, and variations** in 
 ├── Anmol_Rmd.html # Complete R Markdown Report
 ├── README.md # Project Documentation
 └── Insights.pdf # Detailed findings
-
+```
 
 
 ---
@@ -105,18 +105,3 @@ The **WHO Life Expectancy dataset** highlights how **economic conditions, health
 Anmol Pandey
 
 📫 Email: anmolpandey6790@gmail.com
-
-🌐 LinkedIn
- | Kaggle
- | Instagram
-
-
-
-
-
-
-
-
-
-
-
